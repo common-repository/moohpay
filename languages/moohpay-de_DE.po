@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MoohPay Plugin\n"
+"POT-Creation-Date: 2016-11-02 08:19+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: source\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: moohpay/js/moohpay-tinymce.js:33
+msgid "Not connected"
+msgstr "Nicht verbunden"
+
+#: moohpay/js/moohpay-tinymce.js:36
+msgid "Connect"
+msgstr "Verbinden"
+
+#: moohpay/js/moohpay-tinymce.js:44 moohpay/js/moohpay-tinymce.js:109
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: moohpay/js/moohpay-tinymce.js:55
+msgid "Loading Products"
+msgstr "Lade Produkte"
+
+#: moohpay/js/moohpay-tinymce.js:69
+msgid "Insert Product"
+msgstr "Produkt einfügen"
+
+#: moohpay/js/moohpay-tinymce.js:75
+msgid "Product"
+msgstr "Produkt"
+
+#: moohpay/js/moohpay-tinymce.js:80
+msgid "Insert As"
+msgstr "Einfügen als"
+
+#: moohpay/js/moohpay-tinymce.js:82
+msgid "Embedded Sales Page"
+msgstr "Integrierte Verkaufsseite"
+
+#: moohpay/js/moohpay-tinymce.js:83
+msgid "Product Box"
+msgstr "Produkt-Box"
+
+#: moohpay/js/moohpay-tinymce.js:84
+msgid "Simple Product Box"
+msgstr "Einfache Produkt-Box"
+
+#: moohpay/js/moohpay-tinymce.js:85
+msgid "Link"
+msgstr "Link"
+
+#: moohpay/js/moohpay-tinymce.js:106
+msgid "There were no products found."
+msgstr "Es wurden keine Produkte gefunden."
+
+#: moohpay/moohpay.php:92
+msgid "Access Authorization"
+msgstr "Zugriffsberechtigung"
+
+#: moohpay/moohpay.php:92
+msgid "Customers Only"
+msgstr "Nur Kunden"
+
+#: moohpay/moohpay.php:92
+msgid "All Visitors"
+msgstr "Alle Besucher"
+
+#: moohpay/moohpay.php:93
+msgid "No Restriction"
+msgstr "Keine Beschränkung"
+
+#: moohpay/moohpay.php:93
+msgid "Only for customer of"
+msgstr "Nur für Kunden von"
+
+#: moohpay/moohpay.php:93 moohpay/moohpay.php:367
+msgid "No products found."
+msgstr "Keine Produkte gefunden."
+
+#: moohpay/moohpay.php:95
+msgid ""
+"You can restrict access to this page to people who have purchased your "
+"product by selecting a product and saving the changes."
+msgstr ""
+"Du kannst den Zugriff auf diese Seite auf Besucher beschränken, die dein "
+"Produkt gekauft haben, indem du ein Produkt wählst und die Änderungen "
+"speicherst."
+
+#: moohpay/moohpay.php:122
+msgid "Product redirects here."
+msgstr "Produkt leitet hier her."
+
+#: moohpay/moohpay.php:144
+msgid "Product redirection link differs."
+msgstr "Produkt leitet wo anders hin."
+
+#: moohpay/moohpay.php:144
+msgid "Product redirection link not set."
+msgstr "Produkt-Weiterleitungslink nicht gesetzt."
+
+#: moohpay/moohpay.php:144
+msgid ""
+"The product must have a redirection link, so that after it is bought the "
+"customer is lead to this page."
+msgstr ""
+"Das Produkt benötigt einen Weiterleitungs-Link, sodass deine Kunden nach dem "
+"Kauf auf dieser Seite landen."
+
+#: moohpay/moohpay.php:144
+msgid "We can fix that for you. Just press the button below."
+msgstr ""
+"Wir können das für dich einrichten. Klicke einfach auf die Schaltfläche "
+"unten."
+
+#: moohpay/moohpay.php:145
+msgid "Set redirection link to this page"
+msgstr "Link zu dieser Seite setzen"
+
+#: moohpay/moohpay.php:186
+msgid "MoohPay™ Premium Page"
+msgstr "MoohPay™ Premium-Seite"
+
+#: moohpay/moohpay.php:224
+msgid "This page can only be accessed by customers who bought this product:"
+msgstr ""
+"Diese Seite kann nur von Kunden aufgerufen werden, die dieses Produkt "
+"gekauft haben:"
+
+#: moohpay/moohpay.php:234
+msgid "This page can only be accessed by customers."
+msgstr "Diese Seite kann nur von Kunden aufgerufen werden."
+
+#: moohpay/moohpay.php:283
+msgid "MoohPay™ Product"
+msgstr "MoohPay™ Produkt"
+
+#: moohpay/moohpay.php:285
+msgid "Add a product to your sidebar or in an arbitrary widget area."
+msgstr ""
+"Füge ein Produkt zu einer Sidebar oder einem beliebigen Widget-Bereich hinzu."
+
+#: moohpay/moohpay.php:309
+msgid "Not connected."
+msgstr "Nicht verbunden."
+
+#: moohpay/moohpay.php:310
+msgid "Click here to connect."
+msgstr "Klicke hier um dich zu verbinden."
+
+#: moohpay/moohpay.php:334
+msgid "Product:"
+msgstr "Produkt:"
+
+#: moohpay/moohpay.php:336
+msgid "- Select -"
+msgstr "- Auswählen -"
+
+#: moohpay/moohpay.php:356
+msgid "Align:"
+msgstr "Ausrichtung:"
+
+#: moohpay/moohpay.php:358
+msgid "Center"
+msgstr "Zentriert"
+
+#: moohpay/moohpay.php:359
+msgid "Left"
+msgstr "Links"
+
+#: moohpay/moohpay.php:360
+msgid "Right"
+msgstr "Rechts"
+
+#: moohpay/moohpay.php:368
+msgid ""
+"Go to <a href=\"https://www.moohpay.com/product/new\" target=\"_blank"
+"\">MoohPay.com</a> to add a product."
+msgstr ""
+"Rufe <a href=\"https://www.moohpay.com/product/new\" target=\"_blank"
+"\">MoohPay.com</a> auf, um ein Produkt hinzuzufügen."
+
+#: moohpay/options_page.php:11
+msgid "Account Connection"
+msgstr "Account-Verbindung"
+
+#: moohpay/options_page.php:13
+msgid ""
+"To connect your MoohPay™ account, click the connection button and enter your "
+"e-mail address and password."
+msgstr ""
+"Um dich mit deinem MoohPay™ Konto zu verbinden, klicke auf die Schaltfläche "
+"\"Jetzt verbinden\" und gib deine E-Mail-Adresse und dein Passwort ein."
+
+#: moohpay/options_page.php:19
+msgid "Your Account"
+msgstr "Dein Konto"
+
+#: moohpay/options_page.php:28
+msgid "You are <strong>connected</strong> with MoohPay™:"
+msgstr "Du bist mit MoohPay™ <strong>verbunden</strong>:"
+
+#: moohpay/options_page.php:31
+msgid "Change Account"
+msgstr "Account wechseln"
+
+#: moohpay/options_page.php:34
+msgid "You are <strong>not connected</strong> with MoohPay™."
+msgstr "Du bist mit MoohPay™ <strong>noch nicht verbunden</strong>."
+
+#: moohpay/options_page.php:36
+msgid "Connect Now"
+msgstr "Jetzt verbinden"
+
+#: moohpay/options_page.php:113
+msgid "Settings Saved"
+msgstr "Einstellungen gespeichert"

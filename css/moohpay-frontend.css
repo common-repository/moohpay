@@ -1,0 +1,66 @@
+.moohpay-product-box {
+	display: inline-block;
+	border: 1px solid rgba(0,0,0,0.2);
+	padding: 0.6em;
+	border-radius: 0.4em;
+	text-align: center;
+	width: 300px;
+	max-width: 100%;
+	font-weight: normal;
+	vertical-align: top;
+}
+.moohpay-product-box,
+.moohpay-product-embed {
+	background: url('../../../../wp-admin/images/wpspin_light-2x.gif') center center no-repeat;
+	min-height: 80px;
+}
+.moohpay-product-box,
+.moohpay-product-box > * {
+	box-sizing: border-box;
+}
+.moohpay-product-box.moohpay-no-border,
+.moohpay-product-box[data-no-border] {
+	border: 0;
+	padding: 0;
+	border-radius: 0;
+}
+.moohpay-product-box.moohpay-align-left {
+	text-align: left;
+}
+.moohpay-product-box.moohpay-align-right {
+	text-align: right;
+}
+.moohpay-product-box.moohpay-product-loaded,
+.moohpay-product-embed.moohpay-product-loaded {
+	background-image: none;
+	cursor: pointer;
+}
+.moohpay-product-box .moohpay-product-image {
+	line-height: 0;
+}
+.moohpay-product-box .moohpay-product-image > .image {
+	width: 100%;
+	height: 0;
+	padding-top: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.moohpay-product-box .moohpay-product-name {
+	font-size: 1.15em;
+	font-weight: bold;
+	line-height: 1.1em;
+	margin: 0.5em 0 0.2em;
+}
+.moohpay-product-box .moohpay-product-author {
+	font-size: 0.8em;
+	opacity: 0.5;
+}
+.moohpay-product-box .moohpay-product-description {
+	font-size: 0.9em;
+	margin: 0.5em 0;
+}
+.moohpay-product-box .moohpay-product-price,
+.moohpay-product-box .moohpay-product-buy a {
+	font-weight: bold;
+}
